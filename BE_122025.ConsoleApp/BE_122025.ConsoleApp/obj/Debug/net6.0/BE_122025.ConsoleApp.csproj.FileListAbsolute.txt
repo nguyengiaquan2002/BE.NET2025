@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\bin\Debug\net6.0\BE_122025.ConsoleApp.exe
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\bin\Debug\net6.0\BE_122025.ConsoleApp.deps.json
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\bin\Debug\net6.0\BE_122025.ConsoleApp.runtimeconfig.json
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\bin\Debug\net6.0\BE_122025.ConsoleApp.dll
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\bin\Debug\net6.0\BE_122025.ConsoleApp.pdb
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.sourcelink.json
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.dll
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\refint\BE_122025.ConsoleApp.dll
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.pdb
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\BE_122025.ConsoleApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BE_2025\BE_122025.ConsoleApp\BE_122025.ConsoleApp\obj\Debug\net6.0\ref\BE_122025.ConsoleApp.dll
