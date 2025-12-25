@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BE_2025\\BE_122025.ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\BE_2025\\BE_122025.ConsoleApp\\BE_122025.ConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BE_122025.ConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC48880C-A3E5-4FA7-AA8F-BC5601F9187A}|BE_122025.ConsoleApp\\BE_122025.ConsoleApp.csproj|c:\\users\\admin\\source\\repos\\be_2025\\be_122025.consoleapp\\be_122025.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC48880C-A3E5-4FA7-AA8F-BC5601F9187A}|BE_122025.ConsoleApp\\BE_122025.ConsoleApp.csproj|solutionrelative:be_122025.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "BE_122025.ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\BE_2025\\BE_122025.ConsoleApp\\BE_122025.ConsoleApp\\Program.cs",
               "RelativeToolTip": "BE_122025.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:56:01.528Z",
               "EditorCaption": ""
